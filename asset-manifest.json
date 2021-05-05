@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/userobots/static/css/main.20da8a1f.chunk.css",
+    "main.js": "/userobots/static/js/main.243c1090.chunk.js",
+    "main.js.map": "/userobots/static/js/main.243c1090.chunk.js.map",
+    "runtime-main.js": "/userobots/static/js/runtime-main.e1681acf.js",
+    "runtime-main.js.map": "/userobots/static/js/runtime-main.e1681acf.js.map",
+    "static/css/2.fe359a49.chunk.css": "/userobots/static/css/2.fe359a49.chunk.css",
+    "static/js/2.89c89dde.chunk.js": "/userobots/static/js/2.89c89dde.chunk.js",
+    "static/js/2.89c89dde.chunk.js.map": "/userobots/static/js/2.89c89dde.chunk.js.map",
+    "static/js/3.30afaa0c.chunk.js": "/userobots/static/js/3.30afaa0c.chunk.js",
+    "static/js/3.30afaa0c.chunk.js.map": "/userobots/static/js/3.30afaa0c.chunk.js.map",
+    "index.html": "/userobots/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/userobots/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.20da8a1f.chunk.css.map": "/userobots/static/css/main.20da8a1f.chunk.css.map",
+    "static/js/2.89c89dde.chunk.js.LICENSE.txt": "/userobots/static/js/2.89c89dde.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/userobots/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1681acf.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.89c89dde.chunk.js",
+    "static/css/main.20da8a1f.chunk.css",
+    "static/js/main.243c1090.chunk.js"
+  ]
+}
